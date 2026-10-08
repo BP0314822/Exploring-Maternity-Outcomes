@@ -1,4 +1,4 @@
-# UK-Maternity-Analysis
+# UK Maternity Analysis
 A data science project exploring maternity outcomes in England using NHS Maternity Statistics 2024-25.
 Exploring Deprivation and Maternity Outcomes in England
 Project overview
