@@ -6,9 +6,11 @@ This data science project explores the relationship between socioeconomic depriv
 The project aims to identify patterns and associations across levels of deprivation and consider what these may tell us about inequalities in maternity experiences and outcomes.
 
 **Research Question**
+
 How does the level of deprivation relate to maternity characteristics and outcomes recorded in NHS hospitals in England during 2024-25?
 
 **Areas of Investigation**
+
 The analysis will initially explore relationships between deprivation and:
 
 - Maternal age
@@ -20,4 +22,5 @@ The analysis will initially explore relationships between deprivation and:
 - Miscarriages and ectopic pregnancies resulting in an NHS hospital stay
 
 **Data Source**
+
 The project uses publicly available data from NHS England's NHS Maternity Statistics 2024-25: Hospital Episode Statistics.
